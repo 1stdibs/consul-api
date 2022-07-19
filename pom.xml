@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.dibs</groupId>
     <artifactId>consul-api</artifactId>
-    <version>1.4.6-SNAPSHOT</version>
+    <version>1.4.6</version>
     <packaging>jar</packaging>
     <name>consul-api</name>
     <scm>
