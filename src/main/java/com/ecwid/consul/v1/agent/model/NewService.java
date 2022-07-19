@@ -11,6 +11,14 @@ import java.util.Map;
  */
 public class NewService {
 
+	public Connect getConnect() {
+		return connect;
+	}
+
+	public void setConnect(Connect connect) {
+		this.connect = connect;
+	}
+
 	public static class Check {
 
 		@SerializedName("Script")
