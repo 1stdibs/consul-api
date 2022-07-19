@@ -219,6 +219,9 @@ public class NewService {
 	@SerializedName("Checks")
 	private List<Check> checks;
 
+	@SerializedName("Connect")
+	private Connect connect;
+
 	public String getId() {
 		return id;
 	}
